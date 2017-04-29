@@ -1,0 +1,20 @@
+﻿#googd
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Your branch is up-to-date with 'origin/master'.
+#
+# Changes to be committed:
+#	new file:   0kc405q0.jqa.txt
+#	new file:   fx2smvdt.ape.txt
+#	new file:   iystcg5h.3qk.txt
+#	new file:   note.txt
+#	new file:   test01.txt
+#	new file:   "\346\227\245\350\256\260.txt"
+#
+# Changes not staged for commit:
+#	deleted:    0kc405q0.jqa.txt
+#	deleted:    fx2smvdt.ape.txt
+#	deleted:    iystcg5h.3qk.txt
+#
+
